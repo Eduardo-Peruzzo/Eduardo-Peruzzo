@@ -1,51 +1,92 @@
-<h1 align="center">Bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">👋 Eduardo Peruzzo</h1>
 
-###
+### Data Science & AI Student | Data & AI Engineering
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Peruzzo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Peruzzo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="175" alt="languages graph"  />
-</div>
+I'm a **Data Science & Artificial Intelligence student at IBMEC**, currently in the 6th semester, with hands-on professional experience working with **data, ETL, dashboards, automation and software development**.
 
-###
+I currently work as a **Data Intern at BCP DTVM**, an Investment Bank, where I develop data-driven solutions involving dashboards, ETL pipelines, automation and internal applications.
 
-<h3 align="left">Tecnologias e ferramentas que utilizo:</h3>
+I'm particularly interested in the intersection of **Data Engineering, Data Science, Machine Learning and AI**, especially in building complete solutions that go from data ingestion and processing to APIs, analytics and AI-powered applications.
 
-###
+### 🇧🇷 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+Sou estudante de **Ciência de Dados e Inteligência Artificial no IBMEC** e atualmente estou no 6º período da graduação. Já possuo experiência profissional trabalhando com dados, ETLs, dashboards, automações e desenvolvimento de sistemas.
 
-###
+Atualmente trabalho como **Estagiário de Dados na BCP DTVM**, um Banco de Investimentos, desenvolvendo soluções envolvendo dados, automação, visualização e aplicações internas.
 
-<h3 align="left">Minhas redes:</h3>
+Tenho interesse principalmente em **Engenharia de Dados, Ciência de Dados, Machine Learning e Inteligência Artificial**, buscando construir soluções completas que conectem dados, software e IA.
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-peruzzo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+## Technologies & Tools
 
-###
+### Data & Analytics
 
-<img src="https://raw.githubusercontent.com/Eduardo-Peruzzo/Eduardo-Peruzzo/output/snake.svg" alt="Snake animation" />
+* Python
+* R
+* SQL
+* Pandas
+* NumPy
+* Scikit-learn
+* Power BI / Power Query
+* Excel
+* Streamlit
 
-###
+### Data Engineering
+
+* ETL / ELT
+* PostgreSQL
+* MySQL
+* Data Modeling
+* APIs
+* Data Pipelines
+
+### Software Development
+
+* FastAPI
+* Django
+* JavaScript
+* React
+* React Native
+* HTML / CSS
+
+### AI & Machine Learning
+
+* Machine Learning
+* Generative AI
+* RAG
+* LLM Applications
+* Embeddings
+* Vector Search
+* AI Automation
+
+### Tools & Infrastructure
+
+* Git / GitHub
+* Docker
+* Linux / WSL
+* n8n
+
+## Currently
+
+* Studying Data Science & Artificial Intelligence at IBMEC
+* Data Intern at BCP DTVM
+* Working mainly with Python and SQL
+* Building data and automation solutions
+* Exploring Machine Learning and Generative AI
+* Developing deeper skills in Data Engineering
+* Preparing for future opportunities in Data & AI
+
+---
+
+## Connect with me
+
+* LinkedIn: **[Eduardo Peruzzo](https://www.linkedin.com/in/eduardo-peruzzo/)**
+* Email: **[eduardo.peruzzo05@gmail.com](mailto:eduardo.peruzzo05@gmail.com)**
+* GitHub: [Eduardo-Peruzzo](https://github.com/Eduardo-Peruzzo)
+
+---
+
+<p align="center">
+  <i>Building with data, software and AI.</i>
+</p>
