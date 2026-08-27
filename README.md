@@ -19,53 +19,11 @@ Tenho interesse principalmente em **Engenharia de Dados, Ciência de Dados, Mach
 ---
 
 ## Technologies & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,docker,fastapi,django,react,js,linux" /> </p>
 
-### Data & Analytics
+<p align="center"> <img src="https://skillicons.dev/icons?i=github,githubactions,azure" /> </p>
 
-* Python
-* R
-* SQL
-* Pandas
-* NumPy
-* Scikit-learn
-* Power BI / Power Query
-* Excel
-* Streamlit
-
-### Data Engineering
-
-* ETL / ELT
-* PostgreSQL
-* MySQL
-* Data Modeling
-* APIs
-* Data Pipelines
-
-### Software Development
-
-* FastAPI
-* Django
-* JavaScript
-* React
-* React Native
-* HTML / CSS
-
-### AI & Machine Learning
-
-* Machine Learning
-* Generative AI
-* RAG
-* LLM Applications
-* Embeddings
-* Vector Search
-* AI Automation
-
-### Tools & Infrastructure
-
-* Git / GitHub
-* Docker
-* Linux / WSL
-* n8n
+---
 
 ## Currently
 
