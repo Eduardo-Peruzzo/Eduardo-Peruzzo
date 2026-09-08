@@ -28,6 +28,7 @@ Tenho interesse principalmente em **Engenharia de Dados, Ciência de Dados, Mach
 ## Connect with me
 
 * LinkedIn: **[Eduardo Peruzzo](https://www.linkedin.com/in/eduardo-peruzzo/)**
+* Portfolio: [Eduardo-Peruzzo](https://eduardo-portfolio-self.vercel.app)
 * Email: **[eduardo.peruzzo05@gmail.com](mailto:eduardo.peruzzo05@gmail.com)**
 * GitHub: [Eduardo-Peruzzo](https://github.com/Eduardo-Peruzzo)
 
