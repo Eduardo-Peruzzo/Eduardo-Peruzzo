@@ -25,18 +25,6 @@ Tenho interesse principalmente em **Engenharia de Dados, Ciência de Dados, Mach
 
 ---
 
-## Currently
-
-* Studying Data Science & Artificial Intelligence at IBMEC
-* Data Intern at BCP DTVM
-* Working mainly with Python and SQL
-* Building data and automation solutions
-* Exploring Machine Learning and Generative AI
-* Developing deeper skills in Data Engineering
-* Preparing for future opportunities in Data & AI
-
----
-
 ## Connect with me
 
 * LinkedIn: **[Eduardo Peruzzo](https://www.linkedin.com/in/eduardo-peruzzo/)**
